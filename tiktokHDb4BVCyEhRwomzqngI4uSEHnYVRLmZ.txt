@@ -1,1 +1,1 @@
-tiktok-domain-verification=HDb4BVCyEhRwomzqngI4uSEHnYVRLmZ
+tiktok-domain-verification=HDb4BVCyEhRwomzqngI4uSEHnYVRLmZ.txt
